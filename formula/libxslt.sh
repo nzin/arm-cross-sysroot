@@ -1,7 +1,8 @@
 #!/bin/bash
 
 GV_url="ftp://xmlsoft.org/libxml2/libxslt-1.1.27.tar.gz"
-GV_sha1="f8072177f1ffe1b9bb8759a9e3e6349e1eac1f66"
+#GV_sha1="f8072177f1ffe1b9bb8759a9e3e6349e1eac1f66"
+GV_sha1="17096a46f4ea26552d242c5593ed06d17a9fb495"
 
 GV_depend=()
 
